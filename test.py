@@ -1,1 +1,4 @@
-print("hello word")
+
+
+from platform import python_version
+print(python_version())
